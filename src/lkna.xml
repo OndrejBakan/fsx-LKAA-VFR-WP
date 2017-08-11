@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+
+	<!--LKNA
+		AIRAC AMDT 3/17
+	-->
+
+	<!--LKNA ALFA
+		49 08 23 N
+		016 03 45 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAA"
+		waypointType="NAMED"
+		lat="49.1397222222"
+		lon="16.0625"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKNA BRAVO
+		49 11 38 N
+		016 13 12 E	
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAB"
+		waypointType="NAMED"
+		lat="49.1938888889"
+		lon="16.22"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKNA NOVEMBER
+		49 18 11 N
+		016 03 43 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAN"
+		waypointType="NAMED"
+		lat="49.3030555556"
+		lon="16.0619444444"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKNA ECHO
+		49 04 59 N
+		016 26 08 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAE"
+		waypointType="NAMED"
+		lat="49.0830555556"
+		lon="16.4355555556"
+		magvar="4">
+	</Waypoint>
+		
+	<!--LKNA SIERRA
+		49 01 59 N
+		016 06 27 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAS"
+		waypointType="NAMED"
+		lat="49.0330555556"
+		lon="16.1075"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKNA WHISKY
+		49 10 12 N
+		015 55 30 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAW"
+		waypointType="NAMED"
+		lat="49.17"
+		lon="15.925"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKNA ZULU
+		49 13 20 N
+		016 17 35 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VNAZ"
+		waypointType="NAMED"
+		lat="49.2222222222"
+		lon="16.2930555556"
+		magvar="4">
+	</Waypoint>
+
+</FSData>

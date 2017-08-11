@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+
+	<!--LKKU
+		AIRAC AMDT 5/17
+	-->
+	
+	<!--LKKU ECHO
+		49 01 23 N
+		017 38 27 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKUE"
+		waypointType="NAMED"
+		lat="49.0230555556"
+		lon="17.6408333333"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKKU NOVEMBER
+		49 10 13 N
+		017 28 21 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKUN"
+		waypointType="NAMED"
+		lat="49.1702777778"
+		lon="17.4725"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKKU SIERRA
+		48 58 27 N
+		017 16 05 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKUS"
+		waypointType="NAMED"
+		lat="48.9741666667"
+		lon="17.2680555556"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKKU WHISKY
+		49 06 23 N
+		017 18 55 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKUW"
+		waypointType="NAMED"
+		lat="49.1063888889"
+		lon="17.3152777778"
+		magvar="4">
+	</Waypoint>
+
+</FSData>

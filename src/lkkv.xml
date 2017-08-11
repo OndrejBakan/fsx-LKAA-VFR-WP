@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+
+	<!--LKKV
+		AIRAC AMDT 4/17
+	-->
+
+	<!--LKKV ALFA
+		50 12 52 N
+		012 54 46 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKVA"
+		waypointType="NAMED"
+		lat="50.2144444444"
+		lon="12.9127777778"
+		magvar="3">
+	</Waypoint>
+	
+	<!--LKKV BRAVO
+		50 10 33 N
+		012 52 40 E	
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKVB"
+		waypointType="NAMED"
+		lat="50.1758333333"
+		lon="12.8777777778"
+		magvar="3">
+	</Waypoint>
+	
+	<!--LKKV ECHO
+		50 05 03 N
+		013 07 36 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKVE"
+		waypointType="NAMED"
+		lat="50.0841666667"
+		lon="13.1266666667"
+		magvar="3">
+	</Waypoint>
+	
+	<!--LKKV NOVEMBER
+		50 17 59 N
+		012 56 24 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKVN"
+		waypointType="NAMED"
+		lat="50.2997222222"
+		lon="12.94"
+		magvar="3">
+	</Waypoint>
+	
+	<!--LKKV SIERRA
+		50 05 02 N
+		012 50 24 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKVS"
+		waypointType="NAMED"
+		lat="50.0838888889"
+		lon="12.84"
+		magvar="3">
+	</Waypoint>
+	
+	<!--LKKV WHISKY
+		50 11 22 N
+		012 45 29 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKVW"
+		waypointType="NAMED"
+		lat="50.1894444444"
+		lon="12.7580555556"
+		magvar="3">
+	</Waypoint>
+
+</FSData>

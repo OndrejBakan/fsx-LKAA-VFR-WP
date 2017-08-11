@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">	
+
+	<!--LKPR
+		AIRAC AMDT 3/17
+	-->
+
+	<!--LKPR ALFA
+		500817N 0141438E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRA"
+		waypointType="NAMED"
+		lat="50.13805556"
+		lon="14.24388889"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR BRAVO
+		501116N 0141109E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRB"
+		waypointType="NAMED"
+		lat="50.18777778"
+		lon="14.18583333"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR ECHO
+		495910N 0142141E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRE"
+		waypointType="NAMED"
+		lat="49.98611111"
+		lon="14.36138889"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR CHARLIE
+		501118N 0140228E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRC"
+		waypointType="NAMED"
+		lat="50.18833333"
+		lon="14.04111111"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR NOVEMBER
+		501606N 0141421E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRN"
+		waypointType="NAMED"
+		lat="50.26833333"
+		lon="14.23916667"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR SIERRA
+		495742N 0140458E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRS"
+		waypointType="NAMED"
+		lat="49.96166667"
+		lon="14.08277778"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR TANGO
+		500259N 0141622E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRT"
+		waypointType="NAMED"
+		lat="50.04972222"
+		lon="14.27277778"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKPR WHISKY
+		500910N 0135859E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VPRW"
+		waypointType="NAMED"
+		lat="50.15277778"
+		lon="13.98305556"
+		magvar="4">
+	</Waypoint>
+</FSData>

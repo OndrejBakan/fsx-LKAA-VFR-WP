@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+
+	<!--LKKB
+		AIRAC AMDT 3/17
+	-->
+
+	<!--LKKB MIKE
+		50 12 27 N
+		014 41 47 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKBM"
+		waypointType="NAMED"
+		lat="50.2075"
+		lon="14.6963888889"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKKB LIMA
+		50 10 38 N
+		014 51 19 E	
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKBL"
+		waypointType="NAMED"
+		lat="50.1772222222"
+		lon="14.8552777778"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKKB UNIFORM
+		50 04 18 N
+		014 46 24 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKBU"
+		waypointType="NAMED"
+		lat="50.0716666667"
+		lon="14.7733333333"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKKB ROMEO
+		49 58 51 N
+		014 36 22 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VKBR"
+		waypointType="NAMED"
+		lat="49.9808333333"
+		lon="14.6061111111"
+		magvar="4">
+	</Waypoint>
+
+</FSData>

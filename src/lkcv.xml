@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+	<!--LKCV
+		AIRAC AMDT 3/17
+	-->
+	
+	<!--LKCV ALFA
+		49 55 48.00 N
+		015 14 00.70 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VCVA"
+		waypointType="NAMED"
+		lat="49.93"
+		lon="15.2335277778"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV ANEXO
+		49 51 45.54 N
+		015 03 59.86 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="ANEXO"
+		waypointType="NAMED"
+		lat="49.86265"
+		lon="15.0666277778"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV BRAVO
+		49 51 06.81 N
+		015 20 44.03 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VCVB"
+		waypointType="NAMED"
+		lat="49.8518916667"
+		lon="15.3455638889"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV DELTA
+		49 57 18.92 N
+		015 31 07.65 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VCVD"
+		waypointType="NAMED"
+		lat="49.9552555556"
+		lon="15.5187916667"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV EKNEV
+		49 45 40.50 N
+		015 18 15.88 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="EKNEV"
+		waypointType="NAMED"
+		lat="49.76125"
+		lon="15.3044111111"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV CHARLIE
+		50 02 00.55 N
+		015 24 24.73 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VCVC"
+		waypointType="NAMED"
+		lat="50.0334861111"
+		lon="15.4068694444"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV PLAN
+		50 03 05.00 N
+		015 01 59.00 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="PLAN"
+		waypointType="NAMED"
+		lat="50.0513888889"
+		lon="15.0330555556"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV SUKAV
+		49 40 45.43 N
+		015 34 10.49 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="SUKAV"
+		waypointType="NAMED"
+		lat="49.6792861111"
+		lon="15.5695805556"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV TRHO
+		49 47 12.00 N
+		015 49 07.00 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="TRHO"
+		waypointType="NAMED"
+		lat="49.7866666667"
+		lon="15.8186111111"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV XRAY
+		49 53 50.00 N
+		015 38 26.00 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="VCVX"
+		waypointType="NAMED"
+		lat="49.8972222222"
+		lon="15.6405555556"
+		magvar="4">
+	</Waypoint>
+	
+	<!--LKCV ZEHU
+		50 08 21.00 N
+		015 17 31.00 E
+	-->
+	<Waypoint
+		waypointRegion="LK"
+		waypointIdent="ZEHU"
+		waypointType="NAMED"
+		lat="50.1391666667"
+		lon="15.2919444444"
+		magvar="4">
+	</Waypoint>
+
+</FSData>
