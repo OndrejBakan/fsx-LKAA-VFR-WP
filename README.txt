@@ -1,6 +1,6 @@
-﻿LKAA-VFR-WP
+# LKAA-VFR-WP
 
-# Popis:
+## Popis:
 LKAA-VFR-WP přidá do vašeho Flight Simulátoru (testováno v FSX:SE) vstupní
 a výstupní VFR body jednotlivých CTR dle informací publikovaných na lis.rlp.cz.
 
@@ -16,10 +16,10 @@ V době publikace balíčku obsahuje vstupní a výstupní body letišť:
 - PRAHA / Ruzyně
 - PRAHA / Vodochody
 
-# Instalace:
+## Instalace:
 Složku LKAA-VFR-WP z tohoto archivu nainstalujte jako standardní scenérii.
 
-# Úpravy:
+## Úpravy:
 V podsložce src se nacházejí XML soubory, které lze jednoduše upravit textovým
 editorem. Každé letiště se nachází ve vlastním XML souboru.
 
@@ -29,8 +29,7 @@ standardní instalaci scenérie (viz Instalace).
 Vygenerování lze jednoduše provést spuštěním přiloženého souboru generate.bat,
 možná ale bude potřeba změnit cestu k vašemu bglcomp.exe úpravou řádku:
 
-path_bglcomp=c:\Program Files (x86)\Lockheed Martin\Prepar3D SDK 1.4.4747.0\Environment Kit\BGL Compiler SDK\bglcomp.exe
+SET path_bglcomp=c:\Program Files (x86)\Lockheed Martin\Prepar3D SDK 1.4.4747.0\Environment Kit\BGL Compiler SDK\bglcomp.exe
 
-# Autor:
-Ondřej Bakan
-ondrej@bakan.cz
+## Autor:
+Ondřej Bakan (ondrej@bakan.cz)
