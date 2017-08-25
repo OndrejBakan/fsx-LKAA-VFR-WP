@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="49.65"
 		lon="18.1411111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT BRAVO
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="49.7047222222"
 		lon="18.0511111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT ECHO
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="49.6633333333"
 		lon="18.3202777778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT FOXTROT
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="49.7861111111"
 		lon="18.3747222222"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT NOVEMBER
@@ -67,7 +67,7 @@
 		waypointType="NAMED"
 		lat="49.8830555556"
 		lon="18.0547222222"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT SIERRA
@@ -80,7 +80,7 @@
 		waypointType="NAMED"
 		lat="49.5388888889"
 		lon="18.0236111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT TANGO
@@ -93,7 +93,7 @@
 		waypointType="NAMED"
 		lat="49.585"
 		lon="17.7997222222"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKMT WHISKY
@@ -106,7 +106,7 @@
 		waypointType="NAMED"
 		lat="49.7491666667"
 		lon="17.8719444444"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 
 </FSData>

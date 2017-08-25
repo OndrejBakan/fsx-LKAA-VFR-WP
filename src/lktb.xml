@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="49.1175"
 		lon="16.70333333"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKTB BRAVO
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="49.18166667"
 		lon="16.7125"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKTB ECHO
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="49.20361111"
 		lon="16.88611111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKTB NOVEMBER
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="49.29222222"
 		lon="16.56027778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKTB SIERRA
@@ -67,7 +67,7 @@
 		waypointType="NAMED"
 		lat="48.99777778"
 		lon="16.86222222"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKTB WHISKY
@@ -80,7 +80,7 @@
 		waypointType="NAMED"
 		lat="49.11083333"
 		lon="16.52083333"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKTB ZULU
@@ -93,7 +93,7 @@
 		waypointType="NAMED"
 		lat="49.03583333"
 		lon="16.62138889"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 
 </FSData>

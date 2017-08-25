@@ -14,7 +14,7 @@
 		waypointType="NAMED"
 		lat="49.93"
 		lon="15.2335277778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV ANEXO
@@ -27,7 +27,7 @@
 		waypointType="NAMED"
 		lat="49.86265"
 		lon="15.0666277778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV BRAVO
@@ -40,7 +40,7 @@
 		waypointType="NAMED"
 		lat="49.8518916667"
 		lon="15.3455638889"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV DELTA
@@ -53,7 +53,7 @@
 		waypointType="NAMED"
 		lat="49.9552555556"
 		lon="15.5187916667"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV EKNEV
@@ -66,7 +66,7 @@
 		waypointType="NAMED"
 		lat="49.76125"
 		lon="15.3044111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV CHARLIE
@@ -79,7 +79,7 @@
 		waypointType="NAMED"
 		lat="50.0334861111"
 		lon="15.4068694444"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV PLAN
@@ -92,7 +92,7 @@
 		waypointType="NAMED"
 		lat="50.0513888889"
 		lon="15.0330555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV SUKAV
@@ -105,7 +105,7 @@
 		waypointType="NAMED"
 		lat="49.6792861111"
 		lon="15.5695805556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV TRHO
@@ -118,7 +118,7 @@
 		waypointType="NAMED"
 		lat="49.7866666667"
 		lon="15.8186111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV XRAY
@@ -131,7 +131,7 @@
 		waypointType="NAMED"
 		lat="49.8972222222"
 		lon="15.6405555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKCV ZEHU
@@ -144,7 +144,7 @@
 		waypointType="NAMED"
 		lat="50.1391666667"
 		lon="15.2919444444"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 
 </FSData>

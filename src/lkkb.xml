@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="50.2075"
 		lon="14.6963888889"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKKB LIMA
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="50.1772222222"
 		lon="14.8552777778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKKB UNIFORM
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="50.0716666667"
 		lon="14.7733333333"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKKB ROMEO
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="49.9808333333"
 		lon="14.6061111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 
 </FSData>

@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="50.2144444444"
 		lon="12.9127777778"
-		magvar="3">
+		magvar="-3">
 	</Waypoint>
 	
 	<!--LKKV BRAVO
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="50.1758333333"
 		lon="12.8777777778"
-		magvar="3">
+		magvar="-3">
 	</Waypoint>
 	
 	<!--LKKV ECHO
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="50.0841666667"
 		lon="13.1266666667"
-		magvar="3">
+		magvar="-3">
 	</Waypoint>
 	
 	<!--LKKV NOVEMBER
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="50.2997222222"
 		lon="12.94"
-		magvar="3">
+		magvar="-3">
 	</Waypoint>
 	
 	<!--LKKV SIERRA
@@ -67,7 +67,7 @@
 		waypointType="NAMED"
 		lat="50.0838888889"
 		lon="12.84"
-		magvar="3">
+		magvar="-3">
 	</Waypoint>
 	
 	<!--LKKV WHISKY
@@ -80,7 +80,7 @@
 		waypointType="NAMED"
 		lat="50.1894444444"
 		lon="12.7580555556"
-		magvar="3">
+		magvar="-3">
 	</Waypoint>
 
 </FSData>

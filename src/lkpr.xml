@@ -14,7 +14,7 @@
 		waypointType="NAMED"
 		lat="50.13805556"
 		lon="14.24388889"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR BRAVO
@@ -26,7 +26,7 @@
 		waypointType="NAMED"
 		lat="50.18777778"
 		lon="14.18583333"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR ECHO
@@ -38,7 +38,7 @@
 		waypointType="NAMED"
 		lat="49.98611111"
 		lon="14.36138889"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR CHARLIE
@@ -50,7 +50,7 @@
 		waypointType="NAMED"
 		lat="50.18833333"
 		lon="14.04111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR NOVEMBER
@@ -62,7 +62,7 @@
 		waypointType="NAMED"
 		lat="50.26833333"
 		lon="14.23916667"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR SIERRA
@@ -74,7 +74,7 @@
 		waypointType="NAMED"
 		lat="49.96166667"
 		lon="14.08277778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR TANGO
@@ -86,7 +86,7 @@
 		waypointType="NAMED"
 		lat="50.04972222"
 		lon="14.27277778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPR WHISKY
@@ -98,6 +98,6 @@
 		waypointType="NAMED"
 		lat="50.15277778"
 		lon="13.98305556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 </FSData>

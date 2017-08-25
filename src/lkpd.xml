@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="49.9752777778"
 		lon="15.6430555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD BRAVO
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="49.9741666667"
 		lon="15.8702777778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD CHARLIE
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="50.1155555556"
 		lon="15.6527777778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD DELTA
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="50.1025"
 		lon="15.8569444444"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD ECHO
@@ -67,7 +67,7 @@
 		waypointType="NAMED"
 		lat="49.995"
 		lon="16.1091666667"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD NOVEMBER
@@ -80,7 +80,7 @@
 		waypointType="NAMED"
 		lat="50.1391666667"
 		lon="15.7886111111"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD SIERRA
@@ -93,7 +93,7 @@
 		waypointType="NAMED"
 		lat="49.9013888889"
 		lon="15.9358333333"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD WHISKY
@@ -106,7 +106,7 @@
 		waypointType="NAMED"
 		lat="50.1277777778"
 		lon="15.5366666667"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKPD XRAY
@@ -119,7 +119,7 @@
 		waypointType="NAMED"
 		lat="49.8972222222"
 		lon="15.6405555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 </FSData>

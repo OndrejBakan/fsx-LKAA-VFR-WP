@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="49.1397222222"
 		lon="16.0625"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKNA BRAVO
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="49.1938888889"
 		lon="16.22"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKNA NOVEMBER
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="49.3030555556"
 		lon="16.0619444444"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKNA ECHO
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="49.0830555556"
 		lon="16.4355555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 		
 	<!--LKNA SIERRA
@@ -67,7 +67,7 @@
 		waypointType="NAMED"
 		lat="49.0330555556"
 		lon="16.1075"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKNA WHISKY
@@ -80,7 +80,7 @@
 		waypointType="NAMED"
 		lat="49.17"
 		lon="15.925"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKNA ZULU
@@ -93,7 +93,7 @@
 		waypointType="NAMED"
 		lat="49.2222222222"
 		lon="16.2930555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 
 </FSData>

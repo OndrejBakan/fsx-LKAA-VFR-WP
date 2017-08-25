@@ -15,7 +15,7 @@
 		waypointType="NAMED"
 		lat="49.0230555556"
 		lon="17.6408333333"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKKU NOVEMBER
@@ -28,7 +28,7 @@
 		waypointType="NAMED"
 		lat="49.1702777778"
 		lon="17.4725"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKKU SIERRA
@@ -41,7 +41,7 @@
 		waypointType="NAMED"
 		lat="48.9741666667"
 		lon="17.2680555556"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 	
 	<!--LKKU WHISKY
@@ -54,7 +54,7 @@
 		waypointType="NAMED"
 		lat="49.1063888889"
 		lon="17.3152777778"
-		magvar="4">
+		magvar="-4">
 	</Waypoint>
 
 </FSData>
