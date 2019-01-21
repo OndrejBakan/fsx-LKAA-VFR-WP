@@ -2,35 +2,33 @@
 <FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
 
 	<!--LKKV
-		AIRAC AMDT 2/18
+		AIRAC AMDT 2/19
 	-->
 
 	<!--LKKV ALFA
-		50 12 52 N
-		012 54 46 E
+		50 14 16 N
+		012 55 40 E
 	-->
 	<Waypoint
 		waypointRegion="LK"
 		waypointIdent="VKVA"
 		waypointType="NAMED"
-		lat="50.2144444444"
-		lon="12.9127777778"
-		magvar="-3">
+		lat="50.23777778"
+		lon="12.92777778">
 	</Waypoint>
-	
+
 	<!--LKKV BRAVO
-		50 10 33 N
-		012 52 40 E	
+		50 10 15 N
+		012 53 30 E
 	-->
 	<Waypoint
 		waypointRegion="LK"
 		waypointIdent="VKVB"
 		waypointType="NAMED"
-		lat="50.1758333333"
-		lon="12.8777777778"
-		magvar="-3">
+		lat="50.17083333"
+		lon="12.89166667">
 	</Waypoint>
-	
+
 	<!--LKKV ECHO
 		50 05 03 N
 		013 07 36 E
@@ -40,23 +38,21 @@
 		waypointIdent="VKVE"
 		waypointType="NAMED"
 		lat="50.0841666667"
-		lon="13.1266666667"
-		magvar="-3">
+		lon="13.1266666667">
 	</Waypoint>
-	
+
 	<!--LKKV NOVEMBER
-		50 17 59 N
-		012 56 24 E
+		50 16 54 N
+		012 56 19 E
 	-->
 	<Waypoint
 		waypointRegion="LK"
 		waypointIdent="VKVN"
 		waypointType="NAMED"
-		lat="50.2997222222"
-		lon="12.94"
-		magvar="-3">
+		lat="50.28166667"
+		lon="12.93861111">
 	</Waypoint>
-	
+
 	<!--LKKV SIERRA
 		50 05 02 N
 		012 50 24 E
@@ -66,10 +62,9 @@
 		waypointIdent="VKVS"
 		waypointType="NAMED"
 		lat="50.0838888889"
-		lon="12.84"
-		magvar="-3">
+		lon="12.84">
 	</Waypoint>
-	
+
 	<!--LKKV WHISKY
 		50 11 22 N
 		012 45 29 E
@@ -79,8 +74,7 @@
 		waypointIdent="VKVW"
 		waypointType="NAMED"
 		lat="50.1894444444"
-		lon="12.7580555556"
-		magvar="-3">
+		lon="12.7580555556">
 	</Waypoint>
 
 </FSData>

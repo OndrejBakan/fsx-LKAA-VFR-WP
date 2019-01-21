@@ -2,7 +2,7 @@
 <FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
 
 	<!--LKMT
-		AMDT 332/17
+		AIRAC AMDT 2/19
 	-->
 
 	<!--LKMT ALFA
@@ -14,10 +14,9 @@
 		waypointIdent="VMTA"
 		waypointType="NAMED"
 		lat="49.65"
-		lon="18.1411111111"
-		magvar="-4">
+		lon="18.1411111111">
 	</Waypoint>
-	
+
 	<!--LKMT BRAVO
 		49 42 17 N
 		018 03 04 E
@@ -27,10 +26,9 @@
 		waypointIdent="VMTB"
 		waypointType="NAMED"
 		lat="49.7047222222"
-		lon="18.0511111111"
-		magvar="-4">
+		lon="18.0511111111">
 	</Waypoint>
-	
+
 	<!--LKMT ECHO
 		49 39 48 N
 		018 19 13 E
@@ -40,10 +38,9 @@
 		waypointIdent="VMTE"
 		waypointType="NAMED"
 		lat="49.6633333333"
-		lon="18.3202777778"
-		magvar="-4">
+		lon="18.3202777778">
 	</Waypoint>
-	
+
 	<!--LKMT FOXTROT
 		49 47 10 N
 		018 22 29 E
@@ -53,10 +50,9 @@
 		waypointIdent="VMTF"
 		waypointType="NAMED"
 		lat="49.7861111111"
-		lon="18.3747222222"
-		magvar="-4">
+		lon="18.3747222222">
 	</Waypoint>
-	
+
 	<!--LKMT NOVEMBER
 		49 52 59 N
 		018 03 17 E
@@ -66,10 +62,9 @@
 		waypointIdent="VMTN"
 		waypointType="NAMED"
 		lat="49.8830555556"
-		lon="18.0547222222"
-		magvar="-4">
+		lon="18.0547222222">
 	</Waypoint>
-	
+
 	<!--LKMT SIERRA
 		49 32 20 N
 		018 01 25 E
@@ -79,10 +74,9 @@
 		waypointIdent="VMTS"
 		waypointType="NAMED"
 		lat="49.5388888889"
-		lon="18.0236111111"
-		magvar="-4">
+		lon="18.0236111111">
 	</Waypoint>
-	
+
 	<!--LKMT TANGO
 		49 35 06 N
 		017 47 59 E
@@ -92,10 +86,9 @@
 		waypointIdent="VMTT"
 		waypointType="NAMED"
 		lat="49.585"
-		lon="17.7997222222"
-		magvar="-4">
+		lon="17.7997222222">
 	</Waypoint>
-	
+
 	<!--LKMT WHISKY
 		49 44 57 N
 		017 52 19 E
@@ -105,8 +98,7 @@
 		waypointIdent="VMTW"
 		waypointType="NAMED"
 		lat="49.7491666667"
-		lon="17.8719444444"
-		magvar="-4">
+		lon="17.8719444444">
 	</Waypoint>
 
 </FSData>

@@ -2,7 +2,7 @@
 <FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
 
 	<!--LKTB
-		AIRAC AMDT 2/18
+		AIRAC AMDT 2/19
 	-->
 
 	<!--LKTB ALFA
@@ -14,23 +14,21 @@
 		waypointIdent="VTBA"
 		waypointType="NAMED"
 		lat="49.1175"
-		lon="16.70333333"
-		magvar="-4">
+		lon="16.70333333">
 	</Waypoint>
-	
+
 	<!--LKTB BRAVO
 		49 10 54 N
-		016 42 45 E	
+		016 42 45 E
 	-->
 	<Waypoint
 		waypointRegion="LK"
 		waypointIdent="VTBB"
 		waypointType="NAMED"
 		lat="49.18166667"
-		lon="16.7125"
-		magvar="-4">
+		lon="16.7125">
 	</Waypoint>
-	
+
 	<!--LKTB ECHO
 		49 12 13 N
 		016 53 10 E
@@ -40,10 +38,9 @@
 		waypointIdent="VTBE"
 		waypointType="NAMED"
 		lat="49.20361111"
-		lon="16.88611111"
-		magvar="-4">
+		lon="16.88611111">
 	</Waypoint>
-	
+
 	<!--LKTB NOVEMBER
 		49 17 32 N
 		016 33 37 E
@@ -53,10 +50,9 @@
 		waypointIdent="VTBN"
 		waypointType="NAMED"
 		lat="49.29222222"
-		lon="16.56027778"
-		magvar="-4">
+		lon="16.56027778">
 	</Waypoint>
-	
+
 	<!--LKTB SIERRA
 		48 59 52 N
 		016 51 44 E
@@ -66,10 +62,9 @@
 		waypointIdent="VTBS"
 		waypointType="NAMED"
 		lat="48.99777778"
-		lon="16.86222222"
-		magvar="-4">
+		lon="16.86222222">
 	</Waypoint>
-	
+
 	<!--LKTB WHISKY
 		49 06 39 N
 		016 31 15 E
@@ -79,21 +74,19 @@
 		waypointIdent="VTBW"
 		waypointType="NAMED"
 		lat="49.11083333"
-		lon="16.52083333"
-		magvar="-4">
+		lon="16.52083333">
 	</Waypoint>
-	
+
 	<!--LKTB ZULU
-		49 02 09 N
-		016 37 17 E
+		48 59 47 N
+		016 41 20 E
 	-->
 	<Waypoint
 		waypointRegion="LK"
 		waypointIdent="VTBZ"
 		waypointType="NAMED"
-		lat="49.03583333"
-		lon="16.62138889"
-		magvar="-4">
+		lat="48.99638889"
+		lon="16.68888889">
 	</Waypoint>
 
 </FSData>

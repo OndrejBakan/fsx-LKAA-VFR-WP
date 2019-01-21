@@ -2,7 +2,7 @@
 <FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
 
 	<!--LKPD
-		AMDT 4/18
+		AIRAC AMDT 2/19
 	-->
 
 	<!--LKPD ALFA
@@ -14,10 +14,9 @@
 		waypointIdent="VPDA"
 		waypointType="NAMED"
 		lat="49.9752777778"
-		lon="15.6430555556"
-		magvar="-4">
+		lon="15.6430555556">
 	</Waypoint>
-	
+
 	<!--LKPD BRAVO
 		49 58 27 N
 		015 52 13 E
@@ -27,10 +26,9 @@
 		waypointIdent="VPDB"
 		waypointType="NAMED"
 		lat="49.9741666667"
-		lon="15.8702777778"
-		magvar="-4">
+		lon="15.8702777778">
 	</Waypoint>
-	
+
 	<!--LKPD CHARLIE
 		50 06 56 N
 		015 39 10 E
@@ -40,10 +38,9 @@
 		waypointIdent="VPDC"
 		waypointType="NAMED"
 		lat="50.1155555556"
-		lon="15.6527777778"
-		magvar="-4">
+		lon="15.6527777778">
 	</Waypoint>
-	
+
 	<!--LKPD DELTA
 		50 06 09 N
 		015 51 25 E
@@ -53,10 +50,9 @@
 		waypointIdent="VPDD"
 		waypointType="NAMED"
 		lat="50.1025"
-		lon="15.8569444444"
-		magvar="-4">
+		lon="15.8569444444">
 	</Waypoint>
-	
+
 	<!--LKPD ECHO
 		49 59 42 N
 		016 06 33 E
@@ -66,10 +62,9 @@
 		waypointIdent="VPDE"
 		waypointType="NAMED"
 		lat="49.995"
-		lon="16.1091666667"
-		magvar="-4">
+		lon="16.1091666667">
 	</Waypoint>
-	
+
 	<!--LKPD NOVEMBER
 		50 08 21 N
 		015 47 19 E
@@ -79,10 +74,9 @@
 		waypointIdent="VPDN"
 		waypointType="NAMED"
 		lat="50.1391666667"
-		lon="15.7886111111"
-		magvar="-4">
+		lon="15.7886111111">
 	</Waypoint>
-	
+
 	<!--LKPD SIERRA
 		49 54 05 N
 		015 56 09 E
@@ -92,10 +86,9 @@
 		waypointIdent="VPDS"
 		waypointType="NAMED"
 		lat="49.9013888889"
-		lon="15.9358333333"
-		magvar="-4">
+		lon="15.9358333333">
 	</Waypoint>
-	
+
 	<!--LKPD WHISKY
 		50 07 40 N
 		015 32 12 E
@@ -105,10 +98,9 @@
 		waypointIdent="VPDW"
 		waypointType="NAMED"
 		lat="50.1277777778"
-		lon="15.5366666667"
-		magvar="-4">
+		lon="15.5366666667">
 	</Waypoint>
-	
+
 	<!--LKPD XRAY
 		49 53 50 N
 		015 38 26 E
@@ -118,8 +110,7 @@
 		waypointIdent="VPDX"
 		waypointType="NAMED"
 		lat="49.8972222222"
-		lon="15.6405555556"
-		magvar="-4">
+		lon="15.6405555556">
 	</Waypoint>
-	
+
 </FSData>
