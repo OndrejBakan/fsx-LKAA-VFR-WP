@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <FSData version="9.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bglcomp.xsd">
 	<!--LKCV
-		AIRAC AMDT 2/19
+		AIRAC AMDT 2/20
 	-->
 
 	<!--LKCV ALFA
@@ -16,13 +16,13 @@
 		lon="15.2335277778">
 	</Waypoint>
 
-	<!--LKCV ANEXO
+	<!--LKCV JANO
 		49 51 45.54 N
 		015 03 59.86 E
 	-->
 	<Waypoint
 		waypointRegion="LK"
-		waypointIdent="ANEXO"
+		waypointIdent="JANO"
 		waypointType="NAMED"
 		lat="49.86265"
 		lon="15.0666277778">
